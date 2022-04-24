@@ -155,7 +155,7 @@ smartphone3.chiamata(15);
 
     //seconda classe e terza classe sono IDENTICHE alla prima (second user) -> copia/incolla cambiando il nome della classe e il nome della Variabile che implementa la classe
 
-    // Secondo utente 
+    // Secondo utente x
     console.log("---SECONDO UTENTE---")
 
     console.log("Numero delle chiamate"+smartphone2.getNumeroChiamate());
